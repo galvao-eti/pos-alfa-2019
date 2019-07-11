@@ -1,0 +1,12 @@
+{
+    "name": "galvao/posAlfa2019",
+    "description": "Trabalho final da Pós da Faculdade Alfa Umuarama",
+    "type": "project",
+    "license": "MIT",
+    "keywords": ["pos", "alfa"],
+    "autoload": {
+        "psr-4": {
+            "PosAlfa\\": "src/PosAlfa2019/"
+        }
+    }
+}
