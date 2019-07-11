@@ -4,7 +4,7 @@ Trabalho final da turma de 2019 da Disciplina Orientação a Objetos usando PHP 
 
 ## Orientações
 
-1. Inscreva-se no trabalho [neste link](https://classroom.github.com/classrooms/19656195-pos_alfa_2019);
+1. Inscreva-se no trabalho [neste link](https://classroom.github.com/a/M4OzaYm2);
 2. Ao se inscrever, o repositório do trabalho será clonado para sua conta do github;
 3. Neste clone, no arquivo README, coloque seu nome completo;
 4. Este clone conterá uma interface "BancoDeDados";
